@@ -1,4 +1,4 @@
-# GB28181ProxyGateWay
+# GB28181ProxyGateway
 rtsp、rtmp、SDK等方式通过国标代理网关级联上级GB平台，支持GB28181-2011,2016
 
 # 说明
